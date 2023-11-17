@@ -1,1 +1,2 @@
 ultralytics==8.0.211
+streamlit==1.28.2
